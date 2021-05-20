@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>3df5342c-38f9-422d-81aa-f8fde5314594</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\site.js" />
+  </ItemGroup>
+
+</Project>

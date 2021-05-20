@@ -1,0 +1,23 @@
+﻿.project-title {
+    color: #cee002;
+    /*color: #aafa16;*/
+}
+#darken {
+    filter: brightness(70%);
+}
+#link-arrow-color {
+    color: gray;
+}
+/*Give back image grid*/
+.gallery__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gallery__item--1 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
